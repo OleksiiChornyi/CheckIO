@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Backward String", "Backward String\Backward String.pyproj", "{8BC4CAD6-390B-43C4-8606-FC3FD3017BD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BC4CAD6-390B-43C4-8606-FC3FD3017BD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BC4CAD6-390B-43C4-8606-FC3FD3017BD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84234FD6-EF39-4A5E-BE75-CFB4E722FCF4}
+	EndGlobalSection
+EndGlobal
