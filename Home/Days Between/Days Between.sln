@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Days Between", "Days Between\Days Between.pyproj", "{1EFC2B8C-03A1-4974-AE42-E4BBB3A29F43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EFC2B8C-03A1-4974-AE42-E4BBB3A29F43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EFC2B8C-03A1-4974-AE42-E4BBB3A29F43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63EF96FA-5BA9-4460-8334-1818565ADDA8}
+	EndGlobalSection
+EndGlobal
