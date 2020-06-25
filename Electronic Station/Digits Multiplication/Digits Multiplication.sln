@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Digits Multiplication", "Digits Multiplication\Digits Multiplication.pyproj", "{633710CC-04DB-46C0-B92D-D6373695295D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{633710CC-04DB-46C0-B92D-D6373695295D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{633710CC-04DB-46C0-B92D-D6373695295D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECF66BA4-5FD5-4F91-953E-A43CBD0F6D3E}
+	EndGlobalSection
+EndGlobal

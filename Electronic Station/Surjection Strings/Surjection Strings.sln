@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Surjection Strings", "Surjection Strings\Surjection Strings.pyproj", "{D0EDD5A8-61C8-4D19-80C6-41CFAAB2914B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0EDD5A8-61C8-4D19-80C6-41CFAAB2914B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0EDD5A8-61C8-4D19-80C6-41CFAAB2914B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88880F25-4CFC-4817-871D-5C43A35A8581}
+	EndGlobalSection
+EndGlobal
